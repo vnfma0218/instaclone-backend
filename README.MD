@@ -23,4 +23,25 @@ Instaclone Backend.
 - [x] See Hashtag
 - [x] Search Photos
 - [x] Edit Photos
-- [] Like / UnLike Photo
+- [x] Like / UnLike Photo
+- [x] See Photo Likes
+- [x] See Feed
+- [ ] See Photo Comments
+- [ ] Is Mine (Delete Photo)
+
+## Comments
+
+- [x] Comment on Photo
+- [x] EditComment
+- [x] Delete Comment (Is Mine)
+
+## Extras
+
+-[x] S3 Image Upload
+
+## DMs
+
+- [x] See Room
+- [] Send Message (Create Room)
+- [] See Rooms
+- [] Realtime Messages
